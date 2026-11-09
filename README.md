@@ -174,7 +174,9 @@ git push origin main
 ```
 
 ```text
-<!--OUT_PUSH-->
+$ git push origin main
+To github.com:Dait502/netolog_ssh_hw3.git
+   deb6b78..3cb92df  main -> main
 ```
 
 `git push` выполнился без ввода логина и пароля: используется SSH-ключ из ssh-agent.
